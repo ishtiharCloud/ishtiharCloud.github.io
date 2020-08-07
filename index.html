@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title> Map | ishtihar.online </title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id='map'></div>
+    <div id="geocoder" class="geocoder"></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1Ijoic25vZWJlYXN0IiwiYSI6ImNrYjJpbGVuajA1M2wzM3Q4MmR3Z25zZXkifQ.-Q5tH7R3o4jGa8LOxwnVUg'; // replace this with your access token
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/snoebeast/ckbhvcuvn0pba1io98cspjwue/draft', // replace this with your style URL
+      center: [68.765642, 30.564428],
+      zoom: 4.67
+    });
+    // code from the next step will go here
+
+      map.on('click', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {
+        layers: ['iospaces-1'] // replace this with the name of the layer
+      });
+
+      if (!features.length) {
+        return;
+      }
+
+      var feature = features[0];
+
+      var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML('<h3>' + feature.properties.title + '</h3><p>' + feature.properties.screnType + '</p><p>' + feature.properties.mediaType + '</p><p>' + feature.properties.city + '</p><p>' + feature.properties.dimensions + '</p><p>' + feature.properties.audiencePerDay + '</p><p>' + feature.properties.cost + '</p>')
+      .addTo(map);
+      });
+
+      map.addControl(
+        new mapboxgl.GeolocateControl({
+          positionOptions: {
+          enableHighAccuracy: true
+          },
+          trackUserLocation: true
+        })
+      );
+      
+    </script>
+  </body>
+</html>

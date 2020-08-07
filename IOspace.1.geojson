@@ -1,0 +1,2021 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 800 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/jb-tower-peshawar' target='_blank' title='Opens in a new window'>JB Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.50617,
+          34.005063
+        ],
+        "type": "Point"
+      },
+      "id": "034261abb6bccdbab1c96740a517abd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "cost": "Cost per Minute: 500 Rs",
+        "city": "City: Islamabad",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/times-square-plaza-islamabad' target='_blank' title='Opens in a new window'>Times Square</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.074976,
+          33.667825
+        ],
+        "type": "Point"
+      },
+      "id": "05e7556b706a205e7bd21481dc07f5b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1100 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/askari-towers-ii' target='_blank' title='Opens in a new window'>Askari Tower-II</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.172177,
+          33.541511
+        ],
+        "type": "Point"
+      },
+      "id": "0922c6cf2ade3a393a4476a2ddaac1c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 900 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/pace-tower-lahore' target='_blank' title='Opens in a new window'>Pace Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.356047,
+          31.527097
+        ],
+        "type": "Point"
+      },
+      "id": "096184e457fd310992720699789b0646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 350 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/bank-square-johar-town-lahore' target='_blank' title='Opens in a new window'>Bank Square</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.325668,
+          31.489292
+        ],
+        "type": "Point"
+      },
+      "id": "09643bb62d1e56ba15fd44060f60f6ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 700 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/jawad-tower-peshawar' target='_blank' title='Opens in a new window'>Jawad Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.500166,
+          34.002909
+        ],
+        "type": "Point"
+      },
+      "id": "0c404400da6c6905ead565da7f71ac98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 700 Rs",
+        "mediaFormat": "Tower",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/jp-towers-lahore' target='_blank' title='Opens in a new window'>JP towers</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.179594,
+          31.357045
+        ],
+        "type": "Point"
+      },
+      "id": "0f28f06f3cec2c6f242918c8fdf03079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Rawalpindi",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.4 x 22 ft (235 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/haathi-chowk-adam-jee-rd-rawalpindi' target='_blank' title='Opens in a new window'>Haathi Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.052965,
+          33.59937
+        ],
+        "type": "Point"
+      },
+      "id": "13d95e5f3c2c679ebfc9c60d49b1fb85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 12 x 24.5 ft (300 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/awais-plaza-national-hwy-5-gujranwala' target='_blank' title='Opens in a new window'>Awais Plaza</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.190405,
+          32.152524
+        ],
+        "type": "Point"
+      },
+      "id": "1680e6a5002484e95dd81f9b0321bc50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/t-chowk-islamabad' target='_blank' title='Opens in a new window'>T Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.178872,
+          33.511868
+        ],
+        "type": "Point"
+      },
+      "id": "17393d17ead1553ba1ba008b779d6f37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/ghanta-ghar-chowk-gujranwala' target='_blank' title='Opens in a new window'>Ghanta Ghar Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.180471,
+          32.15879
+        ],
+        "type": "Point"
+      },
+      "id": "182b6a9c7d8091637ab0f5f6f429ac1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<a href='https://www.ishtihar.online/product-page/dolmen-mall' target='_blank' title='Opens in a new window'>Dolmen Mall Clifton</a>",
+        "mediaFormat": "Skyscraper",
+        "city": "City: Karachi",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "dimensions": "Dimensions: 30 x 110 ft (3,300 Sq. ft)",
+        "audiencePerDay": "Audience per Day: 50k+",
+        "mediaType": "Type: Digital",
+        "cost": "Cost per Minute: 2400 Rs"
+      },
+      "geometry": {
+        "coordinates": [
+          67.029676,
+          24.802284
+        ],
+        "type": "Point"
+      },
+      "id": "1b4affd503aee805ff84a9b828f9ac80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 1000 Rs",
+        "mediaFormat": "Digital Billboard",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/saddar-round-about-zarrar-shaheed-rd-lahore' target='_blank' title='Opens in a new window'>Saddar Roundabout</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.380243,
+          31.549954
+        ],
+        "type": "Point"
+      },
+      "id": "1bd977436871287289a6d0c621241906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/hussain-chowk-mm-alam-rd-lahore' target='_blank' title='Opens in a new window'>Hussain Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.349893,
+          31.507499
+        ],
+        "type": "Point"
+      },
+      "id": "29c5c77a1e9dc83d2e0713baddb06078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/askari-6-market-askari-6-peshawar' target='_blank' title='Opens in a new window'>Askari 6 Market</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.453833,
+          34.022735
+        ],
+        "type": "Point"
+      },
+      "id": "2cf33d8c52448af5821c49383b9bbb23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 400 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "screnType": "Screen Type: Panaflex Print",
+        "mediaType": "Type: Static",
+        "title": "<a href='https://www.ishtihar.online/product-page/muslim-town-chowk-lahore' target='_blank' title='Opens in a new window'>Muslim Town Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.325799,
+          31.519573
+        ],
+        "type": "Point"
+      },
+      "id": "2e9141c943c51f2ec6543935fdfb4f58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/pieas-chowk-islamabad' target='_blank' title='Opens in a new window'>PIEAS Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.267445,
+          33.656604
+        ],
+        "type": "Point"
+      },
+      "id": "3218355ceece28cb913956356bbe51d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Quetta",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "cost": "Cost per Minute: 300 Rs",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/sur-pul-sabzal-rd-quetta' target='_blank' title='Opens in a new window'>Sur Pul</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          66.973438,
+          30.219549
+        ],
+        "type": "Point"
+      },
+      "id": "3544a84577a0e25e3c4ab1f39e3ae757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 650 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/chenone-tower-multan' target='_blank' title='Opens in a new window'>ChenOne Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.451765,
+          30.193642
+        ],
+        "type": "Point"
+      },
+      "id": "36bbca8c5b5bb0e1d1e9438f7dc31a72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 1300 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/metro-twin-tower-karachi' target='_blank' title='Opens in a new window'>Metro Twin Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.03325,
+          24.839044
+        ],
+        "type": "Point"
+      },
+      "id": "42161c5d47b3f756cf59233313850366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Rawalpindi",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/awan-market-khayaban-e-sir-syed-rawalpindi' target='_blank' title='Opens in a new window'>Awan Market</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.043483,
+          33.641283
+        ],
+        "type": "Point"
+      },
+      "id": "452b7929f4ebbae9542e809fefa27123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 1200 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/emar-coral-tower-karachi' target='_blank' title='Opens in a new window'>Emaar Coral Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.077802,
+          24.751632
+        ],
+        "type": "Point"
+      },
+      "id": "47254e08d538a3d33383407357b051e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "City: Lahore",
+        "audiencePerDay": "Audience per Day: 50k+",
+        "dimensions": "Dimensions: 30 x 110 ft (3,300 Sq. ft)",
+        "cost": "Cost per Minute: 2000 Rs",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/emporium-mall' target='_blank' title='Opens in a new window'>Emporium Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.265991,
+          31.467191
+        ],
+        "type": "Point"
+      },
+      "id": "479fcee661a98f2d9072566499b5aa9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 1500 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/eiffel-tower-replica-lahore' target='_blank' title='Opens in a new window'>Eiffel Tower Replica</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.184702,
+          31.355792
+        ],
+        "type": "Point"
+      },
+      "id": "484de4329874f18578dd386200e5c8ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 2200 Rs",
+        "dimensions": "Dimensions: 144 x 70 ft (10,080 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/dolmen-tower' target='_blank' title='Opens in a new window'>Dolmen Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.031228,
+          24.801963
+        ],
+        "type": "Point"
+      },
+      "id": "497b507b62482407a53c1371adfa853e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 450 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/gateway-towers-faisalabad' target='_blank' title='Opens in a new window'>Gateway Towers</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.105493,
+          31.401901
+        ],
+        "type": "Point"
+      },
+      "id": "4e5436467e8d2e44b1ba4605145db737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.4 x 22 ft (235 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/haji-khel-chowk-peshawar' target='_blank' title='Opens in a new window'>Haji Khel Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.497677,
+          34.015426
+        ],
+        "type": "Point"
+      },
+      "id": "518f5b5ee0c99242baa820d131f709fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/bahria-square-commercial-islamabad' target='_blank' title='Opens in a new window'>Bahria Square</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.106961,
+          33.517156
+        ],
+        "type": "Point"
+      },
+      "id": "55f15a5f49eebe50830d247d3c174e6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Rawalpindi",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/chandni-chowk-murree-rd-rawalpindi' target='_blank' title='Opens in a new window'>Chandani Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.065183,
+          33.584735
+        ],
+        "type": "Point"
+      },
+      "id": "5927c9f9098e6f17d64d5ba4480e884b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 550 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/pace-tower-gujranwala' target='_blank' title='Opens in a new window'>Pace Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.180987,
+          32.184992
+        ],
+        "type": "Point"
+      },
+      "id": "5add8ec6ec8a72d73e73fb2fae74a8aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 2300 Rs",
+        "dimensions": "Dimensions: 30 x 110 ft (3,300 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/packages-mall' target='_blank' title='Opens in a new window'>Packages Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.356642,
+          31.471381
+        ],
+        "type": "Point"
+      },
+      "id": "5c1ac0af8ace29cce5ded7ac3cec3df9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 12 x 24.5 ft (300 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/dhobi-ghat-chowk-mirza-adam-khan-rd-karachi' target='_blank' title='Opens in a new window'>Dhobi Ghat Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.012833,
+          24.877159
+        ],
+        "type": "Point"
+      },
+      "id": "5e8361cc4d38b8c7c24f76c6b0e39cd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Rawalpindi",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/fawara-chowk-rawalpindi' target='_blank' title='Opens in a new window'>Fawara Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.055373,
+          33.61296
+        ],
+        "type": "Point"
+      },
+      "id": "60d5fe14eff812aabe02716a2d8e9d82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 10 x 40 ft (400 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/askari-bypass-shershah-town-multan' target='_blank' title='Opens in a new window'>Askari Bypass</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.425951,
+          30.143496
+        ],
+        "type": "Point"
+      },
+      "id": "626464983e3908aded5c82d06632f6ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/fc-plaza-saddar-rd-peshawar' target='_blank' title='Opens in a new window'>FC Plaza Saddar</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.543899,
+          33.9983
+        ],
+        "type": "Point"
+      },
+      "id": "632c4152b13ec1b46cae39f94d09e690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/danish-g-store-citizen-rd-hyderabad' target='_blank' title='Opens in a new window'>Danish G/Store</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.346424,
+          25.4111
+        ],
+        "type": "Point"
+      },
+      "id": "65b32b5d9640780d9d8312e227350d94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/mcb-tower-gujranwala' target='_blank' title='Opens in a new window'>MCB Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.192906,
+          32.135655
+        ],
+        "type": "Point"
+      },
+      "id": "6885266a2389100841a3dd7e8005ff6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/aabpara-chowk-islamabad' target='_blank' title='Opens in a new window'>Abpara Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.090025,
+          33.707792
+        ],
+        "type": "Point"
+      },
+      "id": "69d09a27f8109854a265d2b4bbfc0c42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1700 Rs",
+        "dimensions": "Dimensions: 130 x 40 (5,200 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/ufone-tower' target='_blank' title='Opens in a new window'>Ufone Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.057199,
+          33.711612
+        ],
+        "type": "Point"
+      },
+      "id": "6c00ca5040f0ece39973be3b5521632f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Rawalpindi",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/car-chowk-high-ct-rd-rawalpindi' target='_blank' title='Opens in a new window'>Car Chowk, High Court Road</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.105309,
+          33.573468
+        ],
+        "type": "Point"
+      },
+      "id": "6c764f4637fb1a28325ebd57a3786fb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/chowk-ghanta-ghar-multan' target='_blank' title='Opens in a new window'>Ghanta Ghar Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.468665,
+          30.198462
+        ],
+        "type": "Point"
+      },
+      "id": "6c85d5480fed876814d50d851ab0faf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10 x 40 ft (400 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/india-square-karachi' target='_blank' title='Opens in a new window'>India Square</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.012384,
+          24.854137
+        ],
+        "type": "Point"
+      },
+      "id": "6d8b65db1a56aa9cb3f5da0646ec37e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "City: Islamabad",
+        "audiencePerDay": "Audience per Day: 50k+",
+        "cost": "Cost per Minute: 2400 Rs",
+        "dimensions": "Dimensions: 50 x 500 ft (25,000 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/giga-mall' target='_blank' title='Opens in a new window'>Giga Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.15803,
+          33.52123
+        ],
+        "type": "Point"
+      },
+      "id": "6fabf822419da8b3a04c366befb48eb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 350 Rs",
+        "mediaFormat": "Tower",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/zarghoon-tower-quetta' target='_blank' title='Opens in a new window'>Zarghoon towers</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          66.999798,
+          30.183383
+        ],
+        "type": "Point"
+      },
+      "id": "7352763689e90cec878cdd3820507ab3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 1800 Rs",
+        "dimensions": "Dimensions: 144 x 70 ft (10,080 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/chapal-skymark' target='_blank' title='Opens in a new window'>Chapal Skymark</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.027407,
+          24.844245
+        ],
+        "type": "Point"
+      },
+      "id": "74a9006e152afc56ee03b1bcf34f0b8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Karachi",
+        "dimensions": "Dimensions: 12 x 24.5 ft (300 Sq. ft)",
+        "cost": "Cost per Minute: 1000 Rs",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/boat-basin-roundabout-clifton-karachi' target='_blank' title='Opens in a new window'>Boat Basin Roundabout</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.025298,
+          24.826849
+        ],
+        "type": "Point"
+      },
+      "id": "76fa80b44a64f407f40fbccb9d4e2efc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 1500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/askari-x' target='_blank' title='Opens in a new window'>Askari-X</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.421731,
+          31.528226
+        ],
+        "type": "Point"
+      },
+      "id": "797463df96014a75c9aadb0c880eb4fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 300 Rs",
+        "mediaFormat": "Wall Pasting",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/kabootar-chowk-sarwar-rd-quetta' target='_blank' title='Opens in a new window'>Kabootar Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.031943,
+          30.212841
+        ],
+        "type": "Point"
+      },
+      "id": "7c56c7540a44436eb7fc153c2dfd74c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1200 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/askari-towers-i' target='_blank' title='Opens in a new window'>Askari Tower-I</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.170783,
+          33.557895
+        ],
+        "type": "Point"
+      },
+      "id": "81aa4905cd146c1dc52f62972e1d4a69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 1400 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/bahria-opal-tower-karachi' target='_blank' title='Opens in a new window'>Bahria Opal Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.033148,
+          24.853311
+        ],
+        "type": "Point"
+      },
+      "id": "8306f90dcc2c88ccbb425a9a532e6e58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 450 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/360-media-solutions-auto-bhan-rd-hyderabad' target='_blank' title='Opens in a new window'>360 Media Solutions</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.349648,
+          25.391497
+        ],
+        "type": "Point"
+      },
+      "id": "83eb310191fb36918fddd125c3f903d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/bank-chowk-nawabanwala-faisalabad' target='_blank' title='Opens in a new window'>Bank Chowk Nawabanwala</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.060579,
+          31.380253
+        ],
+        "type": "Point"
+      },
+      "id": "84374e7f374f4443b4ac4ddb4e40ddad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/mushtaq-plaza-nawan-shehr-multan' target='_blank' title='Opens in a new window'>Mushtaq Plaza</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.460611,
+          30.193155
+        ],
+        "type": "Point"
+      },
+      "id": "864017e6234aa04f7ea612bcd9803413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/expo-center-hyderabad-phuleli-hyderabad' target='_blank' title='Opens in a new window'>Expo Center</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.386676,
+          25.405167
+        ],
+        "type": "Point"
+      },
+      "id": "86a06b5d22b726e72de80cfec7a1cbdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 900 Rs",
+        "mediaType": "Type: Digital",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaFormat": "Tower",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/abdullah-sports-tower-hyderabad' target='_blank' title='Opens in a new window'>Abdullah Sports Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.328527,
+          25.403712
+        ],
+        "type": "Point"
+      },
+      "id": "86e5327883a5c1b4d598b8de17400438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "cost": "Cost per Minute: 1900 Rs",
+        "mediaType": "Type: Digital",
+        "city": "City: Karachi",
+        "dimensions": "Dimensions: 30 x 110 ft (3,300 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/bakht-tower' target='_blank' title='Opens in a new window'>Bakht Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.011576,
+          24.811962
+        ],
+        "type": "Point"
+      },
+      "id": "8a7e19ceb2a8f0ab0f7d0281aa7b88fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 2100 Rs",
+        "dimensions": "Dimensions: 144 x 70 ft (10,080 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/centaurus-mall' target='_blank' title='Opens in a new window'>Centaurus Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.049874,
+          33.707898
+        ],
+        "type": "Point"
+      },
+      "id": "8aa56a155d0307a016e079c7868b945b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/shah-towers-quetta' target='_blank' title='Opens in a new window'>Shah towers</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.017273,
+          30.19056
+        ],
+        "type": "Point"
+      },
+      "id": "8b1ad5d49e562556e30b3d4bf6526638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/islam-tower-multan' target='_blank' title='Opens in a new window'>Islam Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.438921,
+          30.186017
+        ],
+        "type": "Point"
+      },
+      "id": "8b67553842e6be677cc4b7ceb65ceea7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/graveyard-alamdar-chowk-qasimabad-hyderabad' target='_blank' title='Opens in a new window'>Graveyard Alamdar Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.344449,
+          25.404366
+        ],
+        "type": "Point"
+      },
+      "id": "8ec51fe1f6badcc3eacb4ea459d9b1da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/chargano-chowk-peshawar' target='_blank' title='Opens in a new window'>Chargao Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.570935,
+          34.017413
+        ],
+        "type": "Point"
+      },
+      "id": "90942de387956cafdf587cf7728ee7b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1300 Rs",
+        "dimensions": "Dimensions: 30 x 70 ft (2,100 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "mediaFormat": "Tower",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/lignum-tower' target='_blank' title='Opens in a new window'>Lignum Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.148107,
+          33.524244
+        ],
+        "type": "Point"
+      },
+      "id": "92312220c3c986424e852819dbadd18a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.4 x 22 ft (235 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/abdullah-corner-wadhu-wah-rd-hyderabad' target='_blank' title='Opens in a new window'>Abdulah Corner</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.339155,
+          25.405121
+        ],
+        "type": "Point"
+      },
+      "id": "a3ff577e91fd6dc657900ddd79e79865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<a href='https://www.ishtihar.online/product-page/ocean-tower' target='_blank' title='Opens in a new window'>Ocean Tower</a>",
+        "mediaFormat": "Skyscraper",
+        "city": "City: Karachi",
+        "audiencePerDay": "Audience per Day: 50k+",
+        "cost": "Cost per Minute: 1500 Rs",
+        "dimensions": "Dimensions: 30 x 110 ft (3,300 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens"
+      },
+      "geometry": {
+        "coordinates": [
+          67.035368,
+          24.8237
+        ],
+        "type": "Point"
+      },
+      "id": "a71175aa4445b3c58984c17a300519ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaType": "Type: Static",
+        "mediaFormat": "Wall Pasting",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/deewan-complex-ghauri-town-rawalpindi' target='_blank' title='Opens in a new window'>Deewan Complex, Ghauri Town</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.123358,
+          33.619504
+        ],
+        "type": "Point"
+      },
+      "id": "a91cf3957816805df695cc3b014223f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 600 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/auto-bhan-tower-multan' target='_blank' title='Opens in a new window'>Auto Bhan Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.333109,
+          25.377347
+        ],
+        "type": "Point"
+      },
+      "id": "ab2c9b66d3c8598f1bcdf476bbe95238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 1600 Rs",
+        "dimensions": "Dimensions: 130 x 40 (5,200 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/mcb-tower' target='_blank' title='Opens in a new window'>MCB Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.008883,
+          24.850335
+        ],
+        "type": "Point"
+      },
+      "id": "adc4302f14c29de8ca9ddc3344608563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/garjakhi-darwaza-college-rd-gujranwala' target='_blank' title='Opens in a new window'>Garjhaki Darwaza</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.182165,
+          32.160007
+        ],
+        "type": "Point"
+      },
+      "id": "ade15b2639d02d48770af7b1bef5aa34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/airport-chowk-quetta' target='_blank' title='Opens in a new window'>Airport Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          66.960522,
+          30.257
+        ],
+        "type": "Point"
+      },
+      "id": "af7fe3d8273bd360a8dd5139e2d1be71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/lyallpur-underpass-faisalabad' target='_blank' title='Opens in a new window'>Lyallpur Underpass</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.094091,
+          31.411143
+        ],
+        "type": "Point"
+      },
+      "id": "b40c2f0dc67d0b6cb0abadc2c3ee56b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/chowk-farid-town-pasrusr-rd-gujranwala' target='_blank' title='Opens in a new window'>Chowk Farid Town</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.211305,
+          32.160263
+        ],
+        "type": "Point"
+      },
+      "id": "b44c5b750dab73e4b8383479db43b82c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/chowk-yadgar-peshawar' target='_blank' title='Opens in a new window'>Chowk Yadgar</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.574302,
+          34.010052
+        ],
+        "type": "Point"
+      },
+      "id": "b65b9fbaa2ac2cc3275f82743579fb5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/nikka-chowk-bazar-rd-gujranwala' target='_blank' title='Opens in a new window'>Nikka Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.183477,
+          32.15954
+        ],
+        "type": "Point"
+      },
+      "id": "b69b52c1eb57246818176fa8828fca8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "cost": "Cost per Minute: 1000 Rs",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/shahra-e-faisal-underpass-karachi' target='_blank' title='Opens in a new window'>Shahrahe-e-Faisal Underpass</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.116574,
+          24.884321
+        ],
+        "type": "Point"
+      },
+      "id": "c30a1badd640f20f017322ea0f91be38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/zamzama-mall-karachi' target='_blank' title='Opens in a new window'>Zamzama Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.04004,
+          24.816339
+        ],
+        "type": "Point"
+      },
+      "id": "c390dc22b4271bbad0aa9656e3546ea5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10 x 40 ft (400 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/playmax-northern-bypass-multan' target='_blank' title='Opens in a new window'>Playmax ,Northern Bypass</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.531206,
+          30.239896
+        ],
+        "type": "Point"
+      },
+      "id": "c3b2ac96e2d35ba7f261ccc1e442349e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Hyderabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "mediaFormat": "Digital Billboard",
+        "dimensions": "Dimensions: 10 x 40 ft (400 Sq. ft)",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/fateh-chowk-hali-rd-hyderabad' target='_blank' title='Opens in a new window'>Fateh Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          68.387478,
+          25.369004
+        ],
+        "type": "Point"
+      },
+      "id": "c4124b0d9d6d6bd3357aed330043f2d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 10.4 x 22 ft (235 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/khezi-chowk-samungli-rd-quetta' target='_blank' title='Opens in a new window'>Khaizi Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          66.959131,
+          30.228249
+        ],
+        "type": "Point"
+      },
+      "id": "c9cb3fe98977ceacf09832602fda3784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/akbar-chowk-township-lahore' target='_blank' title='Opens in a new window'>Albar Chowk Township</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.307106,
+          31.46749
+        ],
+        "type": "Point"
+      },
+      "id": "cd455a33a5256d9f2d1c2e652ba05bb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 450 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/sheikh-center-gizri-karachi' target='_blank' title='Opens in a new window'>Sheikh Center</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.047106,
+          24.820057
+        ],
+        "type": "Point"
+      },
+      "id": "cecc1866eb84421133653e2956ceda95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/waris-pura-chowk-faisalabad' target='_blank' title='Opens in a new window'>Waris Pura Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.08559,
+          31.379901
+        ],
+        "type": "Point"
+      },
+      "id": "d04c1d181d8c90ba90b61a01b704b183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/copy-of-deans-g-11-islamabad' target='_blank' title='Opens in a new window'>Deans G-11</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.003221,
+          33.676946
+        ],
+        "type": "Point"
+      },
+      "id": "d25cd0ff093a2f5c8b0d26b7ac426095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Multan",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "cost": "Cost per Minute: 1000 Rs",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/mango-garden-bahadurpur-multan' target='_blank' title='Opens in a new window'>Mango Garden</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.491845,
+          30.260341
+        ],
+        "type": "Point"
+      },
+      "id": "d53d60e91c92aaf657517d2bf6502d21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.4 x 22 ft (235 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/post-office-cantonment-quetta' target='_blank' title='Opens in a new window'>Post Office Cantonment</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.052726,
+          30.220562
+        ],
+        "type": "Point"
+      },
+      "id": "dd896bc0dad9172405f7a065d1a0cbdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/doburj-plaza-kohinoor-city-faisalabad' target='_blank' title='Opens in a new window'>Do Burj Plaza</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.116445,
+          31.411781
+        ],
+        "type": "Point"
+      },
+      "id": "df5a1b2259e3a3cc118f2b08fa9e3f63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 1100 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Tower",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Laser Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/meezan-executive-tower-faisalabad' target='_blank' title='Opens in a new window'>Meezan Execuetive Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.076758,
+          31.424432
+        ],
+        "type": "Point"
+      },
+      "id": "df6a342044452795fe52643cffb640f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Quetta",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/round-about-jinnah-town-main-rd-quetta' target='_blank' title='Opens in a new window'>Jinnah Town Roundabout</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          66.990239,
+          30.218426
+        ],
+        "type": "Point"
+      },
+      "id": "e235e885ce6fd9cc6579b37c0a37e4a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 12 x 24.5 ft (300 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/sufi-barakat-ali-underpass-faisalabad' target='_blank' title='Opens in a new window'>Sufi Barkat Undrpass</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.093209,
+          31.410297
+        ],
+        "type": "Point"
+      },
+      "id": "e6f0e8add4ee78ae3a6ef4f28f49fcc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Islamabad",
+        "cost": "Cost per Minute: 1000 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Digital Billboard",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Digital LED Screen",
+        "title": "<a href='https://www.ishtihar.online/product-page/gulberg-underpass-islamabad' target='_blank' title='Opens in a new window'>Gullberg Interchange</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.13862,
+          33.595495
+        ],
+        "type": "Point"
+      },
+      "id": "e96b0da8b47107c90dd0a2c916d82438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 1500 Rs",
+        "dimensions": "Dimensions: 130 x 40 (5,200 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/alamgir-tower' target='_blank' title='Opens in a new window'>Alamgir Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.343446,
+          31.514485
+        ],
+        "type": "Point"
+      },
+      "id": "ea4d13b8f7ffdaffccb6046572622bbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Faisalabad",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 14 x 48 ft (672 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/sitara-supreme-city-sargodha-rd-faisalabad' target='_blank' title='Opens in a new window'>Sitara Supreme</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.07695,
+          31.478228
+        ],
+        "type": "Point"
+      },
+      "id": "ecd54553d3c36693ce3809f95098d5a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 50k+",
+        "city": "City: Karachi",
+        "cost": "Cost per Minute: 2500 Rs",
+        "dimensions": "Dimensions: 800 x 40 ft (32,000 Sq. ft)",
+        "mediaFormat": "Skyscraper",
+        "mediaType": "Type: Digital",
+        "screnType": "Screen Type: Ishtihar Online Concatenated Laser Screens",
+        "title": "<a href='https://www.ishtihar.online/product-page/bahria-icon-tower' target='_blank' title='Opens in a new window'>Bahria Icon Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.028696,
+          24.811805
+        ],
+        "type": "Point"
+      },
+      "id": "eeb85676f348ddfab8eab93640458ddc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Peshawar",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 10.5 x 36 ft (378 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/mandai-chowk-peshawar' target='_blank' title='Opens in a new window'>Mandai Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.736793,
+          33.82939
+        ],
+        "type": "Point"
+      },
+      "id": "f101d904bbd5e9f23cbaffd739e65b5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 5k-10k",
+        "city": "City: Multan",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 12 x 24.5 ft (300 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/faiz-e-aam-chowk-nawabpur-rd-multan' target='_blank' title='Opens in a new window'>Faiz-e-Azam Chowk</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.467473,
+          30.246312
+        ],
+        "type": "Point"
+      },
+      "id": "fc2fea64b3c6f08d15d5428aa4b1fdc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 20k-50k",
+        "city": "City: Lahore",
+        "cost": "Cost per Minute: 500 Rs",
+        "dimensions": "Dimensions: 20 x 60 ft (1,200 Sq. ft)",
+        "mediaFormat": "Billboard",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/chung-multan-rd-lahore' target='_blank' title='Opens in a new window'>Chung, Multan Road</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.172695,
+          31.423757
+        ],
+        "type": "Point"
+      },
+      "id": "fdfd48aeffc375413a22d170adfc0f43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "audiencePerDay": "Audience per Day: 10k-20k",
+        "city": "City: Gujranwala",
+        "cost": "Cost per Minute: 300 Rs",
+        "dimensions": "Dimensions: 16 x 60 ft (960 Sq. ft)",
+        "mediaFormat": "Wall Pasting",
+        "mediaType": "Type: Static",
+        "screnType": "Screen Type: Panaflex Print",
+        "title": "<a href='https://www.ishtihar.online/product-page/more-eminabad-eminabad-rd-gujranwala' target='_blank' title='Opens in a new window'>More Eminabad</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.20846,
+          32.051501
+        ],
+        "type": "Point"
+      },
+      "id": "ff7b199107a745cd051605bae6b53f06"
+    }
+  ],
+  "type": "FeatureCollection"
+}
